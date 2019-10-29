@@ -4,4 +4,4 @@ if(hungry=="ÿes"):
   print("eat samosa")
   print("ëat pizza")
   print("eat burgr")
-  
+  print("eat fries")
